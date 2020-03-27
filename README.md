@@ -1,2 +1,0 @@
-# foo
-just some foo
