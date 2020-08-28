@@ -3,6 +3,6 @@ export class Pizza {
 		console.log('baking!');
 	}
 	eat() {
-		console.log('eating!');
+		console.log('eating pizza!');
 	}
 }
