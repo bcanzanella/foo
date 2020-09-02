@@ -6,3 +6,5 @@ export class Pizza {
 		console.log('eating!');
 	}
 }
+
+export class foo {}
