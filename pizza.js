@@ -6,3 +6,12 @@ export class Pizza {
 		console.log('eating!');
 	}
 }
+
+export class Pizza2 {
+	bake() {
+		console.sslog('baking!');
+	}
+	eat() {
+		console.log('eating!');
+	}
+}
