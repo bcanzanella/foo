@@ -1,6 +1,6 @@
 export class Pizza {
 	bake() {
-		console.log('baking!');
+		console.sslog('baking!');
 	}
 	eat() {
 		console.log('eating!');
