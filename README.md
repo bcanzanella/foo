@@ -2,3 +2,4 @@
 
 just some foo
 a
+a
